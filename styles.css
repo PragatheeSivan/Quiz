@@ -1,0 +1,20 @@
+.bg-container {
+
+    background-size: cover;
+    background-color: cream;
+
+}
+
+.sub-container {
+    background-color: white;
+
+    border-radius: 8px;
+}
+
+h4 {
+    font-family: Bree Serif;
+}
+
+p {
+    font-family: Bree Serif;
+}
