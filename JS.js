@@ -23,7 +23,7 @@ cityDelhiEl.addEventListener("change", function() {
     resultMsgEl.textContent = ""
 });
 cityMumbaiEl.addEventListener("change", function() {
-    selectItme = "Mumbai";
+    selectItme = "Kerla";
     resultMsgEl.textContent = ""
 });
 
